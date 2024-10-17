@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+p a{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.telefones {
+    background-color:#009;
+    padding: 5px;
+    text-align: right;
+    padding-right: 14%;
+}
+
+figure {
+    background-color:#009;
+    color: white;
+    width: 80px;
+    aspect-ratio: 16:9;
+    padding: 30px;
+}
+
